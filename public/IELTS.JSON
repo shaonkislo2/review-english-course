@@ -1,0 +1,65 @@
+[
+    {
+      "name": "Listening",
+      "decription": "Here you can find activities to practise your listening skills. Listening will help you to improve your understanding of the language and your pronunciation. ",
+      "price": 5000,
+      "duration": 6,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS4758_AA047774-low.jpg?itok=PZYR9572"
+    },
+    {
+      "name": "Reading",
+      "decription": "Here you can find activities to practise your reading skills. Reading will help you to improve your understanding of the language and build your vocabulary. ",
+      "price": 6000,
+      "duration": 4,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS5825_169280449-low.jpg?itok=otL7NFfT"
+    },
+    {
+      "name": "Writing",
+      "decription": "Here you can find activities to practise your writing skills. You can improve your writing by understanding model texts and how they are structured ",
+      "price": 6000,
+      "duration": 4,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS7522_ThinkstockPhotos-622015126-hig_0.jpg?itok=qHpUdRl_"
+    },
+    {
+      "name": "Speaking",
+      "decription": "Here you can find activities to practise your speaking skills. You can improve your speaking by noticing the language we use in different situations and practising useful phrases.",
+      "price": 8000,
+      "duration": 7,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS8016_GettyImages-646457628-hig_2.jpg?itok=z_YbpNkB"
+    },
+    {
+      "name": "IELTS",
+      "decription": "We offer a range of flexible and personalised online courses to suit your unique style of learning. Choose between self-study or teacher-led learning and discover a wide variety of exclusive learning materials to support your preparation for the IELTS exam. ",
+      "price": 10000,
+      "duration": 8,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8330_GettyImages-1035789100-hig.jpg?itok=AF4feJrh"
+    },
+    {
+      "name": "General English",
+      "decription": "Are you looking for extra language practice? You will improve your knowledge of everyday English and the language you need for socialising. You will also develop your comprehension skills and build your vocabulary.",
+      "price": 3000,
+      "duration": 2,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS5790_101887935-low.jpg?itok=gMMFyuxh"
+    },
+    {
+      "name": "Business English",
+      "decription": "Business English communication skills are essential for getting ahead at work. Improving your professional business vocabulary and knowledge will help you work more effectively and open up new career opportunities.",
+      "price": 2000,
+      "duration": 1,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS5792_103579700-hig.jpg?itok=gMvZS2Ot"
+    },
+    {
+      "name": "Vocabulary",
+      "decription": "Do you need to learn new words to understand and express yourself clearly in English?n this section you will find activities to help you learn the meaning, pronunciation and spelling of new words. Learning vocabulary will help you improve your language level and communicate in English confidently and effectively.",
+      "price": 2500,
+      "duration": 2,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS7512_ThinkstockPhotos-546769252-low.jpg?itok=fj0fz0Uq"
+    },
+    {
+      "name": "TOEFL ",
+      "decription": "Private and personalised online coaching with British Council TOEFL experts, designed to maximise your score. Completely targeted to your needs: define your schedule and your focus.",
+      "price": 12000,
+      "duration": 8,
+      "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/2021-09/EOL_805_0.jpg?itok=-hsMLSEj"
+    }
+  ]
