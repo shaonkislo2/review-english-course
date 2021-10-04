@@ -14,7 +14,9 @@ function App() {
   return (
     <div className="App">
       <Router>
+
         <Header></Header>
+
         <Switch>
           <Route exact path="/">
           <Home></Home>
@@ -24,9 +26,6 @@ function App() {
           </Route>
           <Route exact path="/detail">
             <Detail></Detail>
-          </Route>
-          <Route exact path="/">
-
           </Route>
           <Route exact path="/about">
             <About></About>
@@ -41,7 +40,9 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+
         <Footer></Footer>
+
       </Router>
     </div>
   );
