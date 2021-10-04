@@ -1,10 +1,12 @@
 import React from 'react';
 import { Container, Nav, Navbar, Stack } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
+import './Header.css'
 
 const Header = () => {
     return (
-        <Navbar bg="light" expand="lg">
+        <div className="headerStyle">
+            <Navbar  expand="lg">
   <Container >
     <Navbar.Brand href="#">British Council</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
@@ -19,7 +21,7 @@ const Header = () => {
           to="/home"
           activeStyle={{
           fontWeight: "bold",
-          color: "green"
+          color: "white"
          }}
         >
           Home
@@ -28,7 +30,7 @@ const Header = () => {
           to="/about"
           activeStyle={{
           fontWeight: "bold",
-          color: "green"
+          color: "white"
          }}
         >
           About US
@@ -37,7 +39,7 @@ const Header = () => {
           to="/service"
           activeStyle={{
           fontWeight: "bold",
-          color: "green"
+          color: "white"
          }}
         >
           Service
@@ -47,7 +49,7 @@ const Header = () => {
           to="/other"
           activeStyle={{
           fontWeight: "bold",
-          color: "green"
+          color: "white"
          }}
         >
           Others
@@ -61,6 +63,7 @@ const Header = () => {
     </Navbar.Collapse>
   </Container>
 </Navbar>
+        </div>
     );
 };
 

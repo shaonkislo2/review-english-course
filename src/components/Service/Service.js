@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Detail from '../Detail/Detail';
+import './Service.css'
 
 const Service = () => {
     const[courses, setCourses]= useState([]); 
@@ -10,7 +11,7 @@ const Service = () => {
         .then(data => setCourses(data))
     },[])
     return (
-        <div className="container">
+        <div >
         <h1 style={{color:"green"}}>Our Service</h1>
         <div >
         {

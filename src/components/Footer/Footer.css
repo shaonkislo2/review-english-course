@@ -1,6 +1,23 @@
 .footer{
-    background-color: rgb(106, 194, 179);
+    background-color: rgb(64, 80, 77);
     color: whitesmoke;
-    padding: 80px;
+    padding: 60px;
     margin-top: 20px;
+}
+
+.footerHeading{
+    color: cornflowerblue;
+}
+
+.courseTitle {
+    color: rgb(201, 177, 71);
+    text-decoration: none;
+    margin: 10px;
+}
+
+.iconStyle{
+    font-size: 30px;
+    margin: 5px;
+    
+    
 }

@@ -4,7 +4,7 @@ import { Card, Col, Row } from 'react-bootstrap';
 const Detail = (props) => {
     const {name,price, decription, img, duration}=props.course;
     return (
-        <div className="detailstyle ">
+        <div >
             <div className="container">
             <Row xs={1} md={2} className="g-4">
         {Array.from({ length: 1 }).map((_, idx) => (
